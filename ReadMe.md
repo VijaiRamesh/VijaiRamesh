@@ -16,5 +16,5 @@
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 
-![Snake Eating Contributions](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
+![Snake Eating Contributions](https://raw.githubusercontent.com/VijaiRamesh/VijaiRamesh/output/github-contribution-grid-snake.svg)
 
