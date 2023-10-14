@@ -18,11 +18,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Generate snake.svg
-        uses: Platane/snk@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          output: dist/snake.svg
+          node-version: 14
+
+      - name: Generate snake.svg
+        run: |
+          npx -p snk@2 snk --user ${{ github.actor }} --output dist/snake.svg
+        working-directory: ${{ github.workspace }}
 
       - name: push snake.svg to the output branch
         uses: actions/upload-artifact@v2
@@ -50,4 +54,5 @@ jobs:
             } else {
               core.setFailed('No artifacts found');
             }
+
 
