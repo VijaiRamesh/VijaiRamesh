@@ -12,7 +12,8 @@
 # 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=VijaiRamesh&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=your-VijaiRamesh.your-repository)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=VijaiRamesh.your-repository)
+
 
 <img src="https://github.com/VijaiRamesh/VijaiRamesh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
