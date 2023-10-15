@@ -13,5 +13,5 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=VijaiRamesh&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=VijaiRamesh&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Generate Snake](https://github.com/VijaiRamesh/VijaiRamesh/actions/workflows/MAIN.yml/badge.svg)](https://github.com/VijaiRamesh/VijaiRamesh/actions/workflows/MAIN.yml)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
